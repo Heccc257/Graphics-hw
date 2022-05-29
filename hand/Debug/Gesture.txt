@@ -1,0 +1,5 @@
+index_proximal_phalange  0.3
+index_intermediate_phalange  0.25
+index_distal_phalange  0.33
+thumb_proximal_phalange  0.03
+thumb_intermediate_phalange   0.26
